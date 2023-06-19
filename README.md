@@ -1,2 +1,4 @@
 # Image-Filters
-it is a command line app that allows for filters to be applied to images
+This project is a command line application that allows the user apply three different filters to an image. Depending on the filter of their choice. greyscale, sepia and blur.
+
+# 

@@ -5,9 +5,9 @@ This project is a command line application that allows the user apply three diff
 on your local terminal, run 'git clone '
 This will set up the project in your local machine. 
 The next step is to run 'cd image-Filters' to change your working directory.
-In the 'image-Filters' directory, run:
-' ./image-Filters (option) (image to be filtered) ( image with the filter)
-where: 
+In the 'Image-Filters' directory, run:
+' ./imageFilter (option) (image to be filtered) ( image with the filter)
+# where: 
 ## Option 
 is any filter from greyscale to blur, you wish to apply. 
 -g for greyscale, -s for sepia and -b for blur. 
